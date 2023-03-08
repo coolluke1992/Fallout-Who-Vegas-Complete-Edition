@@ -421,7 +421,7 @@
 						<plugin name="Fallout Who Tutorial Voices"> 
 							<description>Adds Tutorial Voices.</description> 
 							<files> 
-								<file source="coolluke1992\fnwVoices.esp" destination="fnwVoices.esp" priority="0" /> 
+								<file source="coolluke1992\fwvVoices.esp" destination="fwvVoices.esp" priority="0" /> 
 								<folder source="coolluke1992\Sound" destination="Sound" priority="0" /> 
 							</files> 
 							<typeDescriptor> 
